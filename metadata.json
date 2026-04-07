@@ -1,0 +1,5 @@
+{
+  "name": "PIN Verifier",
+  "description": "A secure-looking PIN entry application with a processing delay.",
+  "requestFramePermissions": []
+}
